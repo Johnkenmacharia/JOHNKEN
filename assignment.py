@@ -59,7 +59,7 @@ numbers.remove(23)
 
 # # #TIPS AND  TRICKS
 
-#multipliying a number increasing the times it appears
+#multipliying a number increasing the times it appears in a list
 
 three=[3]*10
 

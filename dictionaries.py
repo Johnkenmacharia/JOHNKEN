@@ -15,13 +15,15 @@ kenya={
 
 
 #def
-def my_function(first_name):
-    print(first_name + "hello")
-my_function("macharia")
-
-def variable(name):
-    
-    print("hello " + name)
+# 
 
 
-variable(name=input("write your name: "))
+# variable(name=input("write your name: "))
+
+
+#adding of two integers
+num1=eval(input("enter a number"))#eval is used to change a string to a  an integer
+num2=eval(input("enter num2"))
+print(num1 + num2)
+
+#multiplying 
