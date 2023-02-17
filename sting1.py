@@ -90,4 +90,13 @@ for i in line:
         count=count +1
         print("the number of blank spaces is:",count)  
 
-#3        
+#3. a program that  asks the user to enter a formula and prints out whether the formula has
+#the same number of opening and closing parantheses
+
+
+
+
+
+
+#4.write a program that asks the user to enter a word and prints out whether that word 
+# contains any vowels 
